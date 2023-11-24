@@ -2,26 +2,26 @@
 
 | Chapter No | Title                                  | Page No   |
 |------------|----------------------------------------|-----------|
-| 1          | [Introduction](#introduction)          |           |
+| 1          | [Introduction](#introduction)          |       6|
 |      | [Image Augmentation](#image-augmentation) |           |
 |      | [Machine Learning Concepts](#machine-learning-concepts) |           |
 |      | [C++ Concepts Used](#c-concepts-used)  |           |
 |            |                                        |           |
-| 2          | [Program Overview](#program-overview)  |           |
+| 2          | [Program Overview](#program-overview)  |       12    |
 |       | [Class Structure](#class-structure)    |           |
 |       | [Image Processing Workflow](#image-processing-workflow) |           |
 |       | [Detailing Image Filters in the Program](#detailing-image-filters-in-the-program) |           |
 |            |                                        |           |
-| 3          | [Results](#results)                    |           |
+| 3          | [Results](#results)                    |      23     |
 |          | [Output at Various Stages](#output-at-various-stages) |           |
 |          | [Program Output](#program-output)      |           |
 |          | [Before and After](#before-and-after) |           |
 |          | [Training and Testing Loss Before Augmentation](#training-and-testing-loss-before-augmentation) |           |
 |          | [Training and Testing Loss After Augmentation](#training-and-testing-loss-after-augmentation) |           |
 |            |                                        |           |
-| 4          | [Conclusion](#conclusion)              |           |
+| 4          | [Conclusion](#conclusion)              |        30   |
 |            |                                        |           |
-| 5          | [References](#references)              |           |
+| 5          | [References](#references)              |       31    |
 
 
 <div style="page-break-after: always;"></div>
